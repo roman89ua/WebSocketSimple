@@ -1,0 +1,24 @@
+{
+  "name": "seb-socket-simple",
+  "version": "1.0.0",
+  "description": "Node plus native JS websoket example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roman89ua/WebSocketSimple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roman89ua/WebSocketSimple/issues"
+  },
+  "homepage": "https://github.com/roman89ua/WebSocketSimple#readme",
+  "dependencies": {
+    "ws": "^8.11.0"
+  }
+}
