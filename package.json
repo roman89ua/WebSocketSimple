@@ -1,5 +1,5 @@
 {
-  "name": "seb-socket-simple",
+  "name": "web-socket-simple",
   "version": "1.0.0",
   "description": "Node plus native JS websoket example",
   "main": "index.js",
